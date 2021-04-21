@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**anirudh-t4/anirudh-t4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Anirudh Tiwari, a 2nd year ECE student at RIT,BENGALURU.
 
-Here are some ideas to get you started:
+I am a tech enthusiast and a passionate developer. I have a good understnding of building and deploying apps in Flutter . I am currently exploring web development(MERN STACK) .
+Most of my projects are in Flutter
+Tech Stacks known:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*FLUTTER
+*FIREBASE
+*DART
+*HTML
+*CSS
+*JS
+*NODE
+*EXPRESS
+*MONGO DB
+*C++
+
+I am proud team lead of "Useless Developers".We've won 5 consecutive hackathons recently. To name a few - IOSD-NSUT , WIE Ideathon , CODE RIT hackathon and ReImagine-Waste Hackathon.
+
+
+### Top Projects :
+- [ScanEase](https://github.com/Scanease/ScanEase-main)
+
+A document scanning flutter app , with following features:
+
+*Image to pdf.
+*pdf to image.
+*8 edge crop
+*Share and download any pdf or images.
+*ID Scanner
+*Digital Signature
+*Create business Card
+*QR Read and Generate
+*OCR (Image to Text)
+*Different filters on image,crop rotate , gray scale
+
+PLAY STORE LINK : https://play.google.com/store/apps/details?id=com.datastats.scanease
+
+- [Healthify]https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS)
+
+A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation.
+#### 🗣 Get in touch :
+
+[<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anirudh| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br /><br/><br />
+<img align="left" alt="Anirudh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudh-t4&show_icons=true&hide_border=false&count_private=true" />
+
+[instagram]: https://www.instagram.com/anirudh_.4/
+[linkedin]: https://www.linkedin.com/in/anirudh-tiwari-5a0ab7193/
