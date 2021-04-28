@@ -38,9 +38,9 @@ A document scanning flutter app , with following features:
 
 PLAY STORE LINK : https://play.google.com/store/apps/details?id=com.datastats.scanease
 
-- [Healthify](https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS)
 
-A Flutter based mobile application aim at improving the healthcare sector amidst Covid situation.
+
+
 #### 🗣 Get in touch :
 
 [<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
