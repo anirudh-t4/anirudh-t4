@@ -3,7 +3,7 @@
 This is Anirudh Tiwari, a 2nd year ECE student at RIT,BENGALURU.
 
 I am a tech enthusiast and a passionate developer. I have a good understnding of building and deploying apps in Flutter . I am currently exploring web development(MERN STACK) .
-Most of my projects are in Flutter
+Most of my projects are in Flutter.I like to practice Data Structures and Algorithms on Hackerrank and Codechef.
 Tech Stacks known:
 
 * _FLUTTER_
@@ -22,21 +22,10 @@ I am proud team lead of "Useless Developers".We've won 5 consecutive hackathons 
 
 ### Top Projects :
 - [ScanEase](https://github.com/Scanease/ScanEase-main)
+- [HealthyU](https://github.com/anirudh-t4/healthyU)
 
-A document scanning flutter app , with following features:
+### Portfolio :  https://anir4dh-portfolio.web.app/
 
-* _Image to pdf._
-* _pdf to image._
-* _8 edge crop_
-* _Share and download any pdf or images._
-* _ID Scanner_
-* _Digital Signature_
-* _Create business Card_
-* _QR Read and Generate_
-* _OCR (Image to Text)_
-* _Different filters on image,crop rotate , gray scale_
-
-PLAY STORE LINK : https://play.google.com/store/apps/details?id=com.datastats.scanease
 
 
 
