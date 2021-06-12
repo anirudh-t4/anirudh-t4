@@ -19,7 +19,7 @@ Tech Stacks known:
 
 ## 🧮 **My Competetive Programming handles:**
 
-<p align="left"> <a href="https://www.codechef.com/users/anir4dh" target="_blank"> <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="Codechef" width="40" height="40"/> </a> <a href="https://codeforces.com/profile/4nirudh" target="_blank"> <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="Codeforces" width="40" height="40"/> </a> <a href="https://www.hackerrank.com/mohakkhowal" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" alt="HackerRank" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.codechef.com/users/anir4dh" target="_blank"> <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="Codechef" width="40" height="40"/> </a> <a href="https://codeforces.com/profile/4nirudh" target="_blank"> <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="Codeforces" width="40" height="40"/> </a> <a href="https://www.hackerrank.com/anirudh123321" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" alt="HackerRank" width="40" height="40"/> </a> </p>
 
 I am proud team lead of "Useless Developers".We've won 5 consecutive hackathons recently. To name a few - IOSD-NSUT , WIE Ideathon , CODE RIT hackathon and ReImagine-Waste Hackathon.
 
