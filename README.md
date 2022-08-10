@@ -1,6 +1,6 @@
 ### Hello 👋
 
-This is Anirudh Tiwari, a 2nd year ECE student at RIT,BENGALURU.
+This is Anirudh Tiwari, a 3rd year ECE student at RIT,BENGALURU.
 
 I am a tech enthusiast and a passionate developer. I have a good understnding of building and deploying apps in Flutter . I am currently exploring web development(MERN STACK) .
 Most of my projects are in Flutter.I like to practice Data Structures and Algorithms on Hackerrank and Codechef.
