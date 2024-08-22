@@ -5,6 +5,7 @@ This is Anirudh Tiwari, Software Engineer at Sabre Travel Tech,BENGALURU.
 Tech Stacks known:
 
 * _DOTNET_
+* _PL/SQL
 * _FLUTTER_
 * _REACT JS_
 * _NODE_
